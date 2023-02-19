@@ -122,11 +122,10 @@ t2m
 ```{r, echo=FALSE, out.width="30%", fig.align = "center"}
 knitr::include_graphics("carrera1.png")
 ```
-**10.07 K** Participantes desde los 15 años en adelante.
+**Análisis Datos Carrera la Luz 2022** 
 
-**Salida**: Hotel Intercontinental, calle 5, Carrera 6, carrera 4c, carrera1, carrera 4, calle de la escopeta, museo arqueológico la merced, bulevar del rio, puente Ortiz, av 2N, parque lineal rio Cali av2n, calle 25, parque lineal av1n, calle 13, carrera 1 calle 12, carrera 5, calle 10, gobernación del valle, edificio Aristi carrera 9, calle 9 plazoleta de san francisco, bulevar del rio, calle 8, carrera 4, carrera 3ª, parque del peñón, carrera 3, carrera 3ª oeste, calle 5 oeste, carrera 4, av Belalcázar, carrera 2ª oeste, librería nacional, carrera 1c, museo la tertulia, av Colombia, pepe ganga, carrera 3, carrera 2, carrera 3ª, av Colombia, carrera 4, meta hotel intercontinental. [juanchocorrelon.com](https://juanchocorrelon.com/intercontinental-10k-luz-2022/#10k)
+Al usar el gráfico de dispersión del tiempo de las categorias se puede concluir que los datos se encuentran relacionados, por ello se pueden distinguir las diferentes categorias. Por otro lado, al comparar las categorias de los hombres y de las mujeres, se puede observar que los rangos son más amplios para para la categoria de las mujeres, sin embargo, se puede ver que en las categorias de los hombres hay más datos atipicos. Entre las categorias abiertas de mujeres y hombre se ve una diferencia en los tiempos en cuanto a la frecuencia ya que la mayoria de los hombres de encuentran en un tiempo menor a 60 minutos, mientras que en las mujeres el tiempo es mayor. 
 
-Column {data-width=400}
 
 -----------------------------------------------------------------------
 
